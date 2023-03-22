@@ -1,0 +1,1 @@
+console.log("Yoast Promo: editor.js loaded");
