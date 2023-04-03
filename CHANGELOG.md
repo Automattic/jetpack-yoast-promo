@@ -12,3 +12,6 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Generate initial package for Yoast promo components
 - Initialize yoast promo package in jetpack plugin
+
+### Changed
+- Updated package dependencies.
