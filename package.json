@@ -23,7 +23,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-components": "^0.40.3-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^0.10.8",
+		"@automattic/jetpack-shared-extension-utils": "^0.10.9-alpha",
 		"@wordpress/components": "25.3.0",
 		"@wordpress/data": "9.7.0",
 		"@wordpress/edit-post": "7.14.0",
@@ -36,10 +36,10 @@
 	},
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.21.5",
-		"@babel/preset-env": "7.21.5",
-		"@babel/register": "7.21.0",
-		"@babel/runtime": "7.21.5",
+		"@babel/core": "7.22.9",
+		"@babel/preset-env": "7.22.9",
+		"@babel/register": "7.22.5",
+		"@babel/runtime": "7.22.6",
 		"@wordpress/browserslist-config": "5.20.0",
 		"sass": "1.54.4",
 		"sass-loader": "12.4.0",
