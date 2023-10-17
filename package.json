@@ -22,8 +22,8 @@
 		"watch": "pnpm run build && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/jetpack-components": "^0.43.3",
-		"@automattic/jetpack-shared-extension-utils": "^0.12.2",
+		"@automattic/jetpack-components": "^0.43.4-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^0.12.3-alpha",
 		"@wordpress/components": "25.9.0",
 		"@wordpress/data": "9.13.0",
 		"@wordpress/edit-post": "7.20.0",
@@ -36,9 +36,9 @@
 	},
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.23.0",
-		"@babel/preset-env": "7.22.20",
-		"@babel/runtime": "7.23.1",
+		"@babel/core": "7.23.2",
+		"@babel/preset-env": "7.23.2",
+		"@babel/runtime": "7.23.2",
 		"@wordpress/browserslist-config": "5.26.0",
 		"sass": "1.64.1",
 		"sass-loader": "12.4.0",
