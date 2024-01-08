@@ -23,7 +23,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-components": "^0.45.10",
-		"@automattic/jetpack-shared-extension-utils": "^0.13.8-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^0.13.8",
 		"@wordpress/components": "25.14.0",
 		"@wordpress/data": "9.18.0",
 		"@wordpress/edit-post": "7.25.0",
