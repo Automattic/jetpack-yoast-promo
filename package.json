@@ -22,7 +22,7 @@
 		"watch": "pnpm run build && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/jetpack-components": "^0.52.0",
+		"@automattic/jetpack-components": "^0.52.1-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.14.10",
 		"@wordpress/components": "27.3.0",
 		"@wordpress/data": "9.25.0",
