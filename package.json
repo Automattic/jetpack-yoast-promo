@@ -22,8 +22,8 @@
 		"watch": "pnpm run build && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/jetpack-components": "^0.55.3-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^0.15.1-alpha",
+		"@automattic/jetpack-components": "^0.55.3",
+		"@automattic/jetpack-shared-extension-utils": "^0.15.1",
 		"@wordpress/components": "28.2.0",
 		"@wordpress/data": "10.2.0",
 		"@wordpress/edit-post": "8.2.0",
