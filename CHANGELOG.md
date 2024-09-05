@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Address React usage errors found by eslint.
+
 ## [0.2.0] - 2024-02-07
 ### Changed
 - The package now requires PHP >= 7.0. [#34192]
