@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add missing package dependencies.
 
 ### Changed
+- Only include `wp-polyfill` as a script dependency when needed.
 - Updated package dependencies.
 
 ### Fixed
