@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@automattic/jetpack-yoast-promo",
-	"version": "0.3.1",
+	"version": "0.3.2-alpha",
 	"description": "Components used to promote Yoast as part of our collaboration",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/yoast-promo/#readme",
 	"bugs": {
@@ -22,8 +22,8 @@
 		"watch": "pnpm run build && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/jetpack-components": "^0.66.1-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^0.17.0",
+		"@automattic/jetpack-components": "^0.66.1",
+		"@automattic/jetpack-shared-extension-utils": "^0.17.1",
 		"@wordpress/components": "29.3.0",
 		"@wordpress/data": "10.17.0",
 		"@wordpress/edit-post": "8.17.0",
