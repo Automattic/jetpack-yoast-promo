@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 - Update package dependencies.
 
+### Removed
+- Utilities: Remove post editor fallback as we no longer need to ensure compatibility.
+
 ## [0.3.3] - 2025-06-03
 ### Changed
 - Update dependencies. [#42943]
