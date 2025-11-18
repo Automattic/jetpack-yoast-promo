@@ -25,9 +25,9 @@
 		"extends @wordpress/browserslist-config"
 	],
 	"dependencies": {
-		"@automattic/jetpack-components": "^1.3.10-alpha",
+		"@automattic/jetpack-components": "^1.3.10",
 		"@automattic/jetpack-script-data": "^0.5.4",
-		"@automattic/jetpack-shared-extension-utils": "^1.3.25-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^1.3.25",
 		"@wordpress/components": "30.8.0",
 		"@wordpress/data": "10.35.0",
 		"@wordpress/edit-post": "8.35.0",
