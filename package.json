@@ -27,7 +27,7 @@
 	"dependencies": {
 		"@automattic/jetpack-components": "^1.4.13-alpha",
 		"@automattic/jetpack-script-data": "^0.5.4",
-		"@automattic/jetpack-shared-extension-utils": "^1.4.11",
+		"@automattic/jetpack-shared-extension-utils": "^1.4.12-alpha",
 		"@wordpress/components": "32.1.0",
 		"@wordpress/data": "10.39.0",
 		"@wordpress/edit-post": "8.39.0",
@@ -41,9 +41,9 @@
 	},
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.28.4",
-		"@babel/preset-env": "7.28.3",
-		"@babel/runtime": "7.28.4",
+		"@babel/core": "7.29.0",
+		"@babel/preset-env": "7.29.0",
+		"@babel/runtime": "7.28.6",
 		"@wordpress/browserslist-config": "6.39.0",
 		"sass-embedded": "1.97.2",
 		"sass-loader": "16.0.5",
