@@ -5,18 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.5.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.5.0] - 2026-10-15
 ### Changed
-- Components: Use Link from `@wordpress/ui` instead of ExternalLink.
-- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
-- Update dependencies.
-- Update package dependencies.
+- Components: Use Link from `@wordpress/ui` instead of ExternalLink. [#48529]
+- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency. [#48225]
+- Update dependencies. [#48112]
+- Update package dependencies. [#48106] [#48404] [#48405] [#49272] [#49273] [#49631] [#49691] [#49757] [#49831] [#50097] [#50183] [#50407] [#50509] [#50529] [#50751] [#51303] [#51701] [#51802] [#52187] [#52999] [#53004]
 
 ### Removed
-- Minimum supported PHP version is now 7.4.
+- Minimum supported PHP version is now 7.4. [#51515]
 
 ## [0.4.3] - 2026-04-13
 ### Changed
@@ -93,7 +90,7 @@ This is an alpha version! The changes listed here are not final.
 - Generate initial package for Yoast promo components. [#29627]
 - Initialize yoast promo package in jetpack plugin. [#29641]
 
-[0.5.0-alpha]: https://github.com/automattic/jetpack-yoast-promo/compare/v0.4.3...v0.5.0-alpha
+[0.5.0]: https://github.com/automattic/jetpack-yoast-promo/compare/v0.4.3...v0.5.0
 [0.4.3]: https://github.com/automattic/jetpack-yoast-promo/compare/v0.4.2...v0.4.3
 [0.4.2]: https://github.com/automattic/jetpack-yoast-promo/compare/v0.4.1...v0.4.2
 [0.4.1]: https://github.com/automattic/jetpack-yoast-promo/compare/v0.4.0...v0.4.1
